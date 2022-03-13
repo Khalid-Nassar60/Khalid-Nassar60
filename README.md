@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Khalid Nassar
 - 🦷 I'm a Dentist
-- 👀 I’m interested in codinh
+- 👀 I’m interested in coding
 - 🌱 I’m currently learning CSS
 
 <!---
